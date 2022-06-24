@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodPicker", "FoodPicker\FoodPicker.csproj", "{EC2FC1E6-6951-42D2-9DA1-E9B81D4F8AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2FC1E6-6951-42D2-9DA1-E9B81D4F8AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2FC1E6-6951-42D2-9DA1-E9B81D4F8AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2FC1E6-6951-42D2-9DA1-E9B81D4F8AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2FC1E6-6951-42D2-9DA1-E9B81D4F8AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {139FA916-8669-49E4-A697-F3A3C9D1558C}
+	EndGlobalSection
+EndGlobal
